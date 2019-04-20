@@ -1,0 +1,23 @@
+{
+  "name": "redux-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marthyndl/redux-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marthyndl/redux-example/issues"
+  },
+  "homepage": "https://github.com/marthyndl/redux-example#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
